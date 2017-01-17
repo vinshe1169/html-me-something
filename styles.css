@@ -1,0 +1,25 @@
+
+div {
+    margin:auto;
+}
+div {    
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.abc {
+    font-size: 40px;
+}
+
+#var {
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+    color: #4A4943;
+}  
