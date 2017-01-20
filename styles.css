@@ -26,3 +26,7 @@ p {
 header { 
     display: block;
 }
+mark {
+    background-color: yellow;
+    color: black;
+}
